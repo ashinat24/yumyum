@@ -6,7 +6,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/koolkishan/nextjs-travel-planner/blob/main/screenshots/ARKLYTE%20(3).png" alt="project-screenshot" >
+<img src="https://github.com/sandarbhkansal007/yumyum/blob/main/screenshots/WhatsApp%20Image%202024-03-28%20at%201.50.11%20PM.jpeg" alt="project-screenshot" >
+<img src="https://github.com/sandarbhkansal007/yumyum/blob/main/screenshots/WhatsApp%20Image%202024-03-28%20at%201.50.11%20PM%20(1).jpeg" alt="project-screenshot" >
+<img src="https://github.com/sandarbhkansal007/yumyum/blob/main/screenshots/WhatsApp%20Image%202024-03-28%20at%201.50.11%20PM%20(2).jpeg" alt="project-screenshot" >
+<img src="https://github.com/sandarbhkansal007/yumyum/blob/main/screenshots/WhatsApp%20Image%202024-03-28%20at%201.50.11%20PM%20(3).jpeg" alt="project-screenshot" >
+<img src="https://github.com/sandarbhkansal007/yumyum/blob/main/screenshots/WhatsApp%20Image%202024-03-28%20at%201.50.11%20PM%20(5).jpeg" alt="project-screenshot" >
 
   
   
