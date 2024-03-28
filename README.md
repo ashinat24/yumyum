@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/sandarbhkansal007/yumyum/blob/main/screenshots/WhatsApp%20Image%202024-03-28%20at%201.50.11%20PM%20(7).jpeg" alt="project-image"></p>
 
-<p id="description">Travel Planner App with Live Web Scraping from various sources using Bright Data scraping browser.</p>
+<p id="description">A sophisticated online platform centered around the culinary arts, offering a curated selection of exquisite dining experiences, delectable recipes, and culinary inspirations.</p>
 
 <h2>Project Screenshots:</h2>
 
@@ -23,32 +23,6 @@ Here are some of the project's best features:
 *   📊 Scrape Live Data from Multiple Websites - Stay ahead with real-time data scraping from multiple sources keeping your app updated with the latest information.
 *   💾 Store the Scraped Data in PostgreSQL with Prisma - Leverage PostgreSQL and Prisma for efficient storage and management of your scraped data ensuring reliability and speed.
 *   🔄 Zustand for State Management - Enjoy smooth and manageable state management in your app with Zustand simplifying state logic and enhancing performance.
-
-<h2>🛠️ Installation Steps:</h2>
-
-<p>1. Install Dependencies</p>
-
-```
-npm i
-```
-
-<p>2. Setup PostgreSQL in the .env and generate prisma schema</p>
-
-```
-npx prisma generate
-```
-
-<p>3. Push Prisma changes</p>
-
-```
-npx prisma db push
-```
-
-<p>4. Start the app</p>
-
-```
-npm run dev
-```
 
   
   
